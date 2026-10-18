@@ -1,5 +1,4 @@
 # Sepsis-early-detection
-# SepsisDefender — AI-Powered Early Sepsis Detection
 
 ## Overview
 
