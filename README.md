@@ -39,6 +39,10 @@ During model evaluation, the selected decision threshold was **0.3854**. The mod
 
 However, the system also produced a high false-alarm rate of **69.1% per patient**, highlighting the need for further optimization before any clinical deployment.
 
+![SepsisDefender Results](image/mywork.png)
+
+figure : Physical Ethernet Connection Between the EDAN Patient Monitor and the SepsisDefender Application
+
 ## Limitations and Future Work
 
 The current system requires further development and validation. The main limitations include missing values and differences in measurement frequencies in the training dataset, the need for validation using local hospital data, and the high number of false alarms.
